@@ -1,2 +1,2 @@
-discord=1.01
-spotipy=2.13.0
+discord==1.0.1
+spotipy==2.13.0
